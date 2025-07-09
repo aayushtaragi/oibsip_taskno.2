@@ -34,7 +34,7 @@ This project analyzes Google Play Store data to understand trends in app categor
 ## 📁 Files Included  
 - `playstore_analysis.sql`: SQL script containing all EDA and sentiment queries  
 - `README.md`: This project summary  
--  `bi2.JPG`: Screenshots of Power BI dashboard
+-  `PowerBidashboard_screenshot`: Screenshots of Power BI dashboard
 
 ## 🚀 Possible Extensions  
 - Visualize key trends in Power BI or Tableau  
