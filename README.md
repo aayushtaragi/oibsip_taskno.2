@@ -36,7 +36,3 @@ This project analyzes Google Play Store data to understand trends in app categor
 - `README.md`: This project summary  
 -  `PowerBidashboard_screenshot`: Screenshots of Power BI dashboard
 
-## 🚀 Possible Extensions  
-- Visualize key trends in Power BI or Tableau  
-- Perform category-wise sentiment comparison  
-- Track app performance over time with monthly review trends
