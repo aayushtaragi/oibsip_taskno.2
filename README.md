@@ -6,7 +6,7 @@ This project analyzes Google Play Store data to understand trends in app categor
 ## 🛠 Tools Used  
 - **Excel**: For initial data cleaning (type conversion, handling NaNs, formatting issues)  
 - **MS SQL Server**: For EDA and querying structured datasets  
-- **Power BI** *(optional visualization not shown in SQL)*
+- **Power BI** 
 
 ## 🎯 Objective  
 - Clean, categorize, and analyze app metadata and user reviews  
